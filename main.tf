@@ -3,4 +3,10 @@ resource "aws_instance" "Demo" {
   count         = 1
   instance_type = "t2.micro"
 
+  tags = {
+    Name = "DevInstance"
+    Team = "DevOps"
+    env  = "dev"
+  }
+
 }
