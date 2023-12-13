@@ -35,7 +35,7 @@ To use the Terraform module:
 ## Contributing
 
 Feel free to contribute to enhance the project or address issues. Please follow standard GitHub practices.
-Find the project on \`<https://github.com/joelclaudius/terraform-2\`>.
+Find the project on `<https://github.com/joelclaudius/terraform-2`>.
 
 ## License
 
